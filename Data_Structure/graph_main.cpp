@@ -9,7 +9,7 @@ int main(void) {
     Graph g;
 
     string filename;
-    getline(cin, filename);
+    getltine(cin, filename);
 
     g.LoadMatrix(filename);
     g.PrintMatrix();
